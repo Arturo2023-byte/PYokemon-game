@@ -4,9 +4,6 @@ Pequeño juego muy básico de línea de comandos inspirado en Pokémon creado co
 
 Utiliza exclusívamente la sintaxis de **Python 3** y actualmente sólo es compatible con OSX / macOS ejecutándose sobre una ventana de terminal a una resolucion de al menos 1600x900. 
 
-- **Última versión:** 30 de Mayo de 2017.
-
-
 ## Librerías externas
 + **pillow**  	(Para el tratamiento de imágenes)
 + **numpy**			(Para operaciones matemáticas y generación de números aleatorios)
@@ -37,8 +34,7 @@ A todos los creadores de las librerías anteriormente mencionadas, que sin ellos
 
 ## Instalación en OSX
 0. Clonar este repositorio.
-1. Instalar la última versión de [Python3](https://www.python.org/). 
-2. Instalar con el comando **pip3 install** todas las librerías externas mencionadas en el apartado **Librerías externas**. Por ejemplo: 
+1. Instalar con el comando **pip3 install** todas las librerías externas mencionadas en el apartado **Librerías externas**. Por ejemplo: 
 
 + **pip3 install numpy**. 
 
@@ -49,9 +45,6 @@ A todos los creadores de las librerías anteriormente mencionadas, que sin ellos
 
 
 4. Crear en el repositorio una carpeta llamada **img** e incluir en ella todo el contenido de la carpeta **static**, que contine las imágenes básicas para el correcto funcionamiento del juego.
-
-
-Nota: En el caso de que se quiera utilizar el módulo de música, es necesario tener en el repositorio una carpeta llamada **sounds** con los gritos de todos los pokémon en formato .wav numerados del 1 al 386. Ejemplo: 1.wav, 28.wav, 128.wav... También deberá haber un archivo especial 0.wav para el grito del pokémon comodín MissignNo. que aparece cuando no se encuentra registrado el pokémon en dropbox o en la base de datos local.
 
 
 ## Configuración
