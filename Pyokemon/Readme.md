@@ -1,5 +1,5 @@
 ## PyokemonCLI
-Pequeño juego muy básico de línea de comandos inspirado en Pokémon creado con la intención de aprender programación orientada a objetos con el lenguaje de programación Python. Nace a partir del proyecto original **Pokémon CLI**, constituyendo una evolución lógica así como una expresión de la tecnología dominada actualmente por el autor. 
+Pequeño juego muy básico de línea de comandos inspirado en Pokémon creado con la intención de aprender programación orientada a objetos con el lenguaje de programación Python. Nace a partir del proyecto original **Pokémon**, constituyendo una evolución lógica así como una expresión de la tecnología dominada actualmente por el autor. 
 
 
 Utiliza exclusívamente la sintaxis de **Python 3** y actualmente sólo es compatible con OSX / macOS ejecutándose sobre una ventana de terminal a una resolucion de al menos 1600x900. 
